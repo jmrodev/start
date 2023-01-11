@@ -1,0 +1,8 @@
+#lista {
+    display: grid;
+    margin: auto;
+    place-items: center;
+    background-color: aqua;
+    height: 50vh;
+    width: 50vw;
+}
